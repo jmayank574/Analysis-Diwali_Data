@@ -1,8 +1,10 @@
 # Analysis-Diwali_Data
 Project Overview
+
 The goal of this project is to analyze Diwali sales data, including customer demographics, product preferences, and purchase patterns. By identifying key trends and patterns, the analysis aims to provide actionable insights for optimizing marketing strategies, product offerings, and customer satisfaction.
 
 Key Objectives:
+
 Analyze customer demographics (gender, age, occupation, etc.).
 Explore product category performance.
 Understand the relationship between customer attributes and sales.
